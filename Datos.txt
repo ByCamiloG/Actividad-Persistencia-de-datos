@@ -1,0 +1,6 @@
+Person Nombre = 'Juan Pérez', Edad = 25, ocupacion = 'Estilista'}
+Person Nombre = 'María García', Edad = 30, ocupacion = 'Militar'}
+Maestro Nombre = 'John Beltran', Edad = 28, Materia Dictada = 'Economia'}
+Maestro Nombre = 'Ricardo Duran', Edad = 35, Materia Dictada = 'Mecanica de solidos'}
+Estudiante Nombre = 'Juan Gutierrez', Edad = 23, Carrera = 'Ingenieria Economica'}
+Estudiante Nombre = 'Natalia Gomez', Edad = 21, Carrera = 'Derecho'}
